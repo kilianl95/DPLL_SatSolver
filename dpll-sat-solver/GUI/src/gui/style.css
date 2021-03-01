@@ -1,0 +1,9 @@
+.h1 {
+    font-size: 50px !important;
+    color: red !important;
+}
+
+.-fx-button {
+    font-size: 50px !important;
+    color: blue !important;
+}
